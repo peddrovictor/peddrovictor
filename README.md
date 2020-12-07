@@ -1,6 +1,6 @@
 ### Hey guys! 🤜🤛
 
-👨‍💻 My name is Pedro, I'm 24 years old and I'm passionate about technology.
+👨‍💻 My name is Pedro, I'm 24 years old, and I'm passionate about technology.
 
 <a href="https://www.linkedin.com/in/pedrorocha88/">
  <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysonfelipee/">
@@ -19,7 +19,7 @@
 And...
 - 🔭 Currently working as a freelancer
 - 🎓 Bachelor in Information Systems
-- 💬 Talk to me about JavaScript, HTML, CSS, SQL, Flutter or whatever.
+- 💬 Talk to me about JavaScript, HTML, CSS, SQL, Flutter or whatever, I would really love to be able to help.
 - 📫 How to reach me victorpeddro@gmail.com
 - ⚡ Fun fact: I really love online games
 - Live in Brazil
