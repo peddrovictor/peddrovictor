@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walysonfelipe/">
 </a>
 
-<img align="right" alt="GIF" src="./assets/image.png"  width="250px"/>
+<img align="right" alt="GIF" src="./assets/image.png"  width="350px"/>
 
 And...
 - 🔭 Currently working as a freelancer
