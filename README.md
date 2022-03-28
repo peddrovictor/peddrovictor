@@ -21,7 +21,6 @@ And...
 - 🎓 Bachelor in Information Systems
 - 💬 Talk to me about JavaScript, HTML, CSS, SQL, Flutter or whatever, I would really love to be able to help.
 - 📫 How to reach me victorpeddro@gmail.com
-- ⚡ Fun fact: I really love online games
 - Live in Brazil
 
  
